@@ -1,0 +1,3 @@
+AetherMind Specifications Document.
+The system is built on a highly modular architecture using FastAPI and React.
+Marketing spend for Q2 was designated at fifty thousand dollars ($50,000) for growth.

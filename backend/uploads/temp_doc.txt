@@ -1,0 +1,4 @@
+AetherMind System Architecture Overview.
+This project uses FastAPI as backend, React as frontend, and MySQL for relational storage.
+For semantic search, text segments are converted into dense vector embeddings and stored in FAISS.
+Marketing spend for Q2 was designated at fifty thousand dollars ($50,000) for campaign growth.
