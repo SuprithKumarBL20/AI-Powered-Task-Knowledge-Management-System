@@ -110,7 +110,7 @@ Update your MySQL credentials.
 
 ```env
 DB_USER=root
-DB_PASSWORD=your_password
+DB_PASSWORD=******
 DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_NAME=task_knowledge_db
