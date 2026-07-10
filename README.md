@@ -350,6 +350,11 @@ View and update assigned tasks.
 ![User Tasks](docs/screenshots/user_task.png)
 
 ---
+### Swagger UI
+
+![Swagger Documentation](docs/screenshots/swagger.png)
+
+---
 
 
 # 🚀 Future Enhancements
